@@ -248,9 +248,10 @@ li {
         border: 1px solid;
         padding: 1rem 2rem;
         width: 15px;
-        text-align: center;
         width: 20px;
+        margin-top: 20px;
         row-gap: 20px;
+        text-align: center;
     }
     
     .entriesWrapper {

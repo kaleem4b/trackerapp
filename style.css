@@ -89,6 +89,7 @@ ul {
 li {
     border: 1px solid;
     padding: 1rem 1.5rem;
+    row-gap: 20px;
 }
 
 .entriesWrapper {

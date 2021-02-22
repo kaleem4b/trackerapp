@@ -38,7 +38,7 @@ function calcGoal() {
   const progressCircle = document.querySelector('#progressCircle')
 
   if (completedPercent > 100) completedPercent === 100;
-  progressCircle.style.background = `conic-gradient(#70db70 ${completedPercent}%, #2d3740 ${completedPercent}% 100%)`;
+  progressCircle.style.background = `conic-gradient( #dbdbdb ${completedPercent}%, #2d3740 ${completedPercent}% 100%)`;
 }
 
 function handleSubmit(event) {
